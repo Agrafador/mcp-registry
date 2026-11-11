@@ -21,7 +21,7 @@ about:
   icon: https://raw.githubusercontent.com/wonderwhy-er/DesktopCommanderMCP/main/icon.png
 source:
   project: https://github.com/wonderwhy-er/DesktopCommanderMCP
-  commit: 0ad919bc188947fc55b1bf269df62f4b14b3880c
+  commit: 9d5afdf5da6bdee4d4c52caf9a78128235a1b0d4
 run:
   volumes:
     - "{{desktop-commander.paths|volume|into}}"
